@@ -1,6 +1,6 @@
 #include <iostream> // The following are the header files for implementing input, output, strings, and manipulating output
 #include <string> // new comment added for makefile exercise
-#include <iomanip>
+#include <iomanip> // new comment added for git exercise
 #include "version.cpp"
 
 using namespace std; // default namespace used
